@@ -6,7 +6,7 @@
 - Cajegas, Angelo
 - Fermin, Liam Chandler
 - Malagapo, Nathan Rener
-- Nadal, Denz Matther
+- Nadal, Denz Matthew
 - Tesaluna, Kristoffer Josh
 - Quitco, Kyle Matthew
 
