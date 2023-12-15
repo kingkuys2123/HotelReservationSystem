@@ -3,12 +3,12 @@
 
 <h3 align="left">Members:</h3>
 
-- Cajegas, Angelo
-- Fermin, Liam Chandler
-- Malagapo, Nathan Rener
-- Nadal, Denz Matthew
-- Tesaluna, Kristoffer Josh
-- Quitco, Kyle Matthew
+- [Cajegas, Angelo](https://github.com/acajegas62)
+- [Fermin, Liam Chandler](https://github.com/LiamFermin)
+- [Malagapo, Nathan Rener](https://github.com/sytrusz)
+- [Nadal, Denz Matthew](https://github.com/Denznadal)
+- [Tesaluna, Kristoffer Josh](https://github.com/opsnight)
+- [Quitco, Kyle Matthew](https://github.com/kingkuys2123)
 
 
 <u>
