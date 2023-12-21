@@ -58,6 +58,8 @@
 | IDE | [Apache Netbeans](https://netbeans.apache.org/front/main/) |
 | DBMS | [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) + [MySQL](https://www.mysql.com/) + [PHPMyAdmin](https://www.phpmyadmin.net/)|
 
+<br>
+
 ## Screenshots:
 
 ![Alt Text](https://i.imgur.com/IChmNtw.png "Screenshots")
