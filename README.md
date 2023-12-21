@@ -1,5 +1,7 @@
 ![Alt text](https://i.imgur.com/RONDHBo.png "Hotel Logo")
 
+<br>
+
 <h1 align="left">Hotel Management System</h1>
 <h3 align="left">An OOP2 Project by: <b>Group 6 - Payter</b></h3>
 
