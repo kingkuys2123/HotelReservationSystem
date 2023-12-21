@@ -69,6 +69,11 @@
 
 <br>
 
+## Notes: 
+#### Import **hotel.sql** to your local **MySQL** database before using/running the app via PHPMyAdmin.
+
+<br>
+
 ## Screenshots:
 
 ![Alt Text](https://i.imgur.com/IChmNtw.png "Screenshots")
