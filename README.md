@@ -59,7 +59,7 @@
 
 ## Project Info:
 
-| Softwares ||
+| Softwares Used: ||
 | ------ | ------ |
 | IDE | [Apache Netbeans](https://netbeans.apache.org/front/main/) |
 | DBMS | [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) + [XAMPP](https://www.apachefriends.org/) + [MySQL](https://www.mysql.com/) + [PHPMyAdmin](https://www.phpmyadmin.net/)|
