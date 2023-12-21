@@ -43,13 +43,17 @@
 
 ## Accounts:
 
-#### Guest
+#### Guest 
 > **Username**: guest <br>
 > **Password**: guest
+>
+> **Note**: Opens **GUEST SIDE** of the app.
 
-#### Staff
+#### Staff (Opens staff side of the app)
 > **Username**: staff <br>
 > **Password**: staff
+>
+> **Note**: Opens **STAFF SIDE** of the app.
 
 <br>
 
