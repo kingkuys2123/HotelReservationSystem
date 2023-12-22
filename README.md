@@ -19,7 +19,7 @@
 
 <br>
 
-## User stories and program features 
+## Program Features
 #### Guest Registration and Booking: 	
  > - As a guest, I want to search for available rooms based on my travel dates, location, and preferences (e.g., room type, amenities).
  > - As a guest, I want to book a room, specify check-in/check-out dates, and receive a confirmation.
@@ -41,36 +41,42 @@
 
 <br> 
 
-## Accounts:
+## Accounts
 
 #### Guest 
-> **Username**: guest <br>
-> **Password**: guest
+> **Username**: `guest` <br>
+> **Password**: `guest`
 >
 > **Note**: Opens **GUEST SIDE** of the app.
 
-#### Staff (Opens staff side of the app)
-> **Username**: staff <br>
-> **Password**: staff
+#### Staff
+> **Username**: `staff` <br>
+> **Password**: `staff`
 >
 > **Note**: Opens **STAFF SIDE** of the app.
 
 <br>
 
-## Project Info:
+## Project Info
 
-| Softwares Used: ||
-| ------ | ------ |
-| IDE | [Apache Netbeans](https://netbeans.apache.org/front/main/) |
-| DBMS | [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) + [XAMPP](https://www.apachefriends.org/) + [MySQL](https://www.mysql.com/) + [PHPMyAdmin](https://www.phpmyadmin.net/)|
+| Softwares Used: |
+| ------ |
+| JAVA IDE: [Apache Netbeans](https://netbeans.apache.org/front/main/) |
+| DBMS: [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) + [XAMPP](https://www.apachefriends.org/) + [MySQL](https://www.mysql.com/) + [PHPMyAdmin](https://www.phpmyadmin.net/)|
 
-#### Database Name:
-> hotel
+| External Libraries Used: |
+| ------ |
+| [JCalendar](https://dev.mysql.com/downloads/connector/j/) |
+| [MySQLI Connector](https://dev.mysql.com/downloads/connector/j/) |
+
+| Database Name |
+| ------ |
+| hotel |
 
 <br>
 
-## Notes: 
-#### Import **hotel.sql** to your local **MySQL** database before using/running the app via PHPMyAdmin.
+## Notes
+#### Import `hotel.sql` to your local **MySQL** database via `PHPMyAdmin` or any tool before opening/running the app.
 
 <br>
 
