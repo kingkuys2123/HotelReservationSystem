@@ -67,7 +67,7 @@
 | External Libraries Used: |
 | ------ |
 | [JCalendar](https://dev.mysql.com/downloads/connector/j/) |
-| [MySQLI Connector](https://dev.mysql.com/downloads/connector/j/) |
+| [MySQLI-Connector](https://dev.mysql.com/downloads/connector/j/) |
 
 | Database Name |
 | ------ |
