@@ -76,7 +76,7 @@
 <br>
 
 ## Notes
-#### Import `hotel.sql` to your local **MySQL** database via `PHPMyAdmin` or any tool before opening/running the app.
+#### Import `hotel.sql` to your local **MySQL** database via `PHPMyAdmin` or any tool before opening/running the app
 
 <br>
 
