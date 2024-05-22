@@ -1,4 +1,6 @@
-![Alt text](https://i.imgur.com/RONDHBo.png "Hotel Logo")
+<p align="center">
+ <img src="https://i.imgur.com/RONDHBo.png"/>
+</p>
 
 <br>
 
@@ -57,22 +59,31 @@
 
 <br>
 
+<!-- Project Info -->
+
 ## Project Info
 
-| Softwares Used: |
-| ------ |
-| JAVA IDE: [Apache Netbeans](https://netbeans.apache.org/front/main/) |
-| DBMS: [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) + [XAMPP](https://www.apachefriends.org/) + [MySQL](https://www.mysql.com/) + [PHPMyAdmin](https://www.phpmyadmin.net/)|
+#### Languages:
 
-| External Libraries Used: |
-| ------ |
-| [JCalendar](https://dev.mysql.com/downloads/connector/j/) |
-| [MySQLI-Connector](https://dev.mysql.com/downloads/connector/j/) |
+<a href="#languages">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
 
-| Database Name |
-| ------ |
-| hotel |
+#### Database:
+<a href="#database">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
 
+#### Tools:
+
+<a href="#tools">
+    <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
+</a>
+<a href="#tools">
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+</a>
+
+<br>
 <br>
 
 ## Notes
